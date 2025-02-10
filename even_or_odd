@@ -1,0 +1,6 @@
+a=int(input('enter the num: '))
+b=a%2
+if b==0:
+    print('the num you entered {} is even' .format(a))
+else:
+    print('the num  you entered {} is odd' .format(a))
